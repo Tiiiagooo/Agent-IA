@@ -1,3 +1,0 @@
-[10:12:03] CLIENT: bonjour
-[10:12:03] AGENT : Bonjour Jean ! Comment puis-je vous aider aujourd’hui ?
-------------------------------

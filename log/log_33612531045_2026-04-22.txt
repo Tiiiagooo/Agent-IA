@@ -1,0 +1,60 @@
+[10:18:29] CLIENT: yoo
+[10:18:29] AGENT : Bonjour Gabrielle ! Comment puis-je vous aider aujourd’hui ?
+------------------------------
+[10:20:46] CLIENT: quelle est le prix d'une nuit s'il vous plaît
+[10:20:46] AGENT : Bonjour Gabrielle,
+
+Je n’ai malheureusement pas l’information concernant le tarif d’une nuit. Pouvez‑vous patienter un instant, s’il vous plaît ? Un membre de notre équipe prendra le relais rapidement.
+------------------------------
+[10:25:01] CLIENT: peut tu me confirmer ma date de réservation ainsi que l'heure d'arrivée
+[10:25:01] AGENT : Bonjour Gabrielle,
+
+Votre réservation est bien confirmée pour le **24 avril**.  
+L’heure d’arrivée prévue est à **15 h00** (heure d’enregistrement).
+
+À très bientôt dans notre appartement !
+------------------------------
+[10:36:37] CLIENT: il y a une cuisine équipé ?
+[10:36:37] AGENT : Bonjour Gabrielle,
+
+Je ne dispose pas de l'information concernant la cuisine de l'appartement. Je vais vérifier cela pour vous ; pourriez‑vous patienter un instant, s’il vous plaît ? Un membre de notre équipe vous répondra rapidement.
+------------------------------
+[13:18:43] CLIENT: bonjour, c'est combien le prix de la nuit
+[13:18:43] AGENT : Bonjour Gabrielle !  
+
+- Chambre Standard : **85 €** la nuit  
+- Suite : **120 €** la nuit  
+
+À cela s’ajoutent les frais de ménage de **20 €** (et les frais de service Airbnb qui sont calculés automatiquement).  
+
+Si vous prévoyez de rester **7 nuits ou plus**, vous bénéficiez d’une réduction de **‑10 %** sur le tarif nuitée.  
+
+N’hésitez pas à me dire quel type de chambre vous intéresse ou si vous avez d’autres questions !
+------------------------------
+[13:19:11] CLIENT: vous avez quoi comme option ?
+[13:19:11] AGENT : Bonjour Gabrielle !  
+
+Voici les options que nous proposons pour rendre votre séjour encore plus spécial :
+
+- **Décoration anniversaire 🎂** : ballons, banderole, fleurs…  
+- **Décoration romantique 🌹** : bougies, pétales de roses, champagne…  
+- **Petit‑déjeuner / panier gourmand** : à définir (prix à préciser).  
+
+Merci de nous faire votre demande au moins quelques jours à l’avance afin que nous puissions tout préparer.  
+
+N’hésitez pas si vous avez besoin de plus d’informations !
+------------------------------
+[13:19:28] CLIENT: c'est combien la decoration anniversaire
+[13:19:28] AGENT : Bonjour Gabrielle,
+
+Nous proposons bien une décoration anniversaire 🎂 (ballons, banderole, fleurs…), mais le tarif exact n’est pas indiqué dans les informations dont je dispose. 
+
+Je vais transmettre votre demande à notre équipe afin qu’elle vous communique le prix et les modalités. Merci de bien vouloir patienter un instant, un humain prendra le relais très rapidement.
+------------------------------
+[13:23:16] CLIENT: avez vous de la disponilité ce samedi, a combien est la nuit, je souhaite ajouter un depart tardive et une decoration romantique de combien sera le  total merci
+[13:23:16] AGENT : Bonjour Gabrielle,
+
+Je n’ai pas la possibilité de vérifier immédiatement la disponibilité pour ce samedi, ni le tarif exact incluant le départ tardif et la décoration romantique. Je vais transmettre votre demande à notre équipe afin qu’elle puisse vous confirmer les dates, le prix de la nuit (85 €/nuit en chambre standard ou 120 €/nuit en suite) ainsi le coût des options demandées.
+
+Merci de bien vouloir patienter quelques instants, nous revenons vers vous très rapidement !
+------------------------------

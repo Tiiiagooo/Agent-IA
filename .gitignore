@@ -1,0 +1,11 @@
+# Ignorer les datas du dossier data
+data/
+
+# Ignorer les tokens secrets
+token/
+
+# Ignorer les dossiers de l'environnement virtuel
+venv/
+__pycache__/
+
+

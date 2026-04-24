@@ -8,4 +8,6 @@ token/
 venv/
 __pycache__/
 
+# Ignorer les dossiers log
+log/
 

@@ -11,3 +11,6 @@ __pycache__/
 # Ignorer les dossiers log
 log/
 
+# Ignorer les dossiers clients
+clients/
+

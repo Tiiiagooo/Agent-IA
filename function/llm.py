@@ -1,8 +1,8 @@
 from groq import Groq
-
+from function.utils import GROQ_API_KEY
 
 def generer_reponse_llm(message_utilisateur, appart, client_info):
-    client_groq = Groq(api_key="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")
+    client_groq = Groq(api_key=GROQ_API_KEY)
     # On construit le contexte
     prompt_systeme = f"""
     Tu es l'assistant personnel de l'appartement '{appart['name']}'. 

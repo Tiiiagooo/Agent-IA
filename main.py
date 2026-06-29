@@ -35,6 +35,21 @@ def whatsapp_reply():
     user_msg = request.values.get('Body', '').lower()
     return whatsapp_logic2(user_number, user_msg, user_states)
 
+# Route pour Instagram (Meta Webhook)
+@app.route("/instagram", methods=['POST', 'GET'])
+def instagram_reply():
+    # Meta demande une vérification au début (GET)
+    if request.method == 'GET':
+        return request.args.get('hub.challenge')
+    
+    # Réception du message (POST)
+    data = request.json
+    user_id = data['entry'][0]['messaging'][0]['sender']['id']
+    user_msg = data['entry'][0]['messaging'][0]['message']['text']
+    
+    # On réutilise la MEME logique
+    return whatsapp_logic2(user_id, user_msg, user_states)
+
 if __name__ == "__main__":
     # EXEMPLE : Envoyer un message dès que le script démarre
     # Remplace par ton numéro au format +336...
